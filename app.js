@@ -1,4 +1,4 @@
-function pesquisar(){
+function pesquisar():string{
     let section = document.getElementById("resultados-pesquisa")
     let campoPesquisa = document.getElementById("campo-pesquisa").value
     if(!campoPesquisa){

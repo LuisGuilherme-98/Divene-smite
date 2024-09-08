@@ -29,5 +29,4 @@ for (let plano of planos) {
     }
 }
 section.innerHTML = resultados
-}
-//console.log(dados);
+};
